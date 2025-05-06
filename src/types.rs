@@ -1,4 +1,4 @@
-use alloy::primitives::{Address, Bytes, Log};
+use alloy_primitives::{Address, Bytes, Log};
 use reth_primitives::{SealedBlock, Transaction};
 use serde::{Deserialize, Serialize};
 
